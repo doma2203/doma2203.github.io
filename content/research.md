@@ -1,7 +1,10 @@
 ---
-type: section
+title: Research
+# type: section
+category: lists
+draft: true
 ---
-### Publications 
+#### Publications 
 - X, Y, Z  "dddd" 
-### Projects
+#### Projects
 - 2021 - now - TUFIQoE

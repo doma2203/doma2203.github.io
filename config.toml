@@ -1,4 +1,4 @@
-baseURL = 'http:///'
+baseURL = ""
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = ['hugo-cloak-email','Devise']
@@ -18,12 +18,12 @@ copyright = "&copy; Copyright 2022, Dominika Wanat"
     title = "About"
     url = "/about"
     weight = -110
-  [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    title = "Research"
-    url = "/research"
-    weight = -100
+  # [[menu.main]]
+  #   identifier = "research"
+  #   name = "Research"
+  #   title = "Research"
+  #   url = "/research"
+  # weight = -100
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
