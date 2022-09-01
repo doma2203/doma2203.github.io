@@ -5,6 +5,7 @@ theme = ['hugo-cloak-email','Devise']
 timeZone = "Europe/Warsaw"
 relativeURLs = false
 enableGitInfo = true
+themesDir = "themes"
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
