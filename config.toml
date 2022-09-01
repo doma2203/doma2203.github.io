@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = ['hugo-cloak-email','Devise']
+theme = ['hugo-cloak-email','devise']
 timeZone = "Europe/Warsaw"
 relativeURLs = false
 enableGitInfo = true
