@@ -6,6 +6,7 @@ timeZone = "Europe/Warsaw"
 relativeURLs = false
 enableGitInfo = true
 themesDir = "themes"
+staticDir2 = "static"
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
