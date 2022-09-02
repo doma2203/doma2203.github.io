@@ -3,7 +3,7 @@ title: About
 Author : Dominika Wanat
 aliases : ["/about/"]
 nocomments: true
-noDate: true
+noDate: false
 draft: false
 ---
 
