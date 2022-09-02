@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://doma2203.github.io/wanat/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = ['hugo-cloak-email','devise']
@@ -45,7 +45,7 @@ copyright = "&copy; Copyright 2022, Dominika Wanat"
   #   weight = -80
 
 [params]
-  description = "Dominika Wanat"      # Your meta description of the site
+  description = "The personal website of Dominika Wanat, PhD student at AGH UST."      # Your meta description of the site
   header_title = "Dominika Wanat"                 # Your header title
   header_subtitle = "PhD student | Institute of Telecommunication | AGH UST | Cracow, Poland" # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory
