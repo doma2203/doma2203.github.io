@@ -59,9 +59,7 @@ copyright = "&copy; Copyright 2022, Dominika Wanat"
     fontColor = "#283747"
     backgroundColor = "#F3F3F3" 
 
-  [[params.social]]
-    fa_icon = "fas fa-key fa-1x"
-    href = "./wanat_agh_edu_pl.gpg"
+
   [[params.social]]
     fa_icon = "fas fa-book-open fa-1x"
     href = "https://orcid.org/0000-0002-8790-5114"
@@ -74,6 +72,9 @@ copyright = "&copy; Copyright 2022, Dominika Wanat"
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/in/dkalafut/"
+  [[params.social]]
+    fa_icon = "fas fa-key fa-1x"
+    href = "./wanat_agh_edu_pl.gpg"
   # [[params.social]]
   #   fa_icon = "fas fa-at fa-1x"
   #   href = "mailto:wanat@agh.edu.pl"
