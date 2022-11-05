@@ -1,0 +1,22 @@
+baseURL = "https://dwanat.eu"
+languageCode = 'en-us'
+title = 'Dominika Wanat - PhD student @ AGH'
+timeZone = "Europe/Warsaw"
+theme = ['hugo-cloak-email','devise']
+relativeURLs = false
+enableGitInfo = true
+themesDir = "themes"
+staticDir2 = "static"
+enableEmoji = true
+enableRobotsTXT = true
+enableInlineShortcodes = true
+copyright = "&copy; Copyright 2022, Dominika Wanat"
+# [menu]
+
+
+# [params]
+
+  # [[params.social]]
+  #   fa_icon = "fas fa-at fa-1x"
+  #   href = "mailto:wanat@agh.edu.pl"
+  #   #href = "https://mailhide.io/e/Ry4BKK7q"

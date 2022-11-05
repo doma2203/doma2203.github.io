@@ -1,0 +1,29 @@
+description = "The website of Dominika Wanat, PhD student at AGH UST."      # Your meta description of the site
+header_title = "Dominika Wanat"                 # Your header title
+header_subtitle = "PhD student | Institute of Telecommunication | AGH UST | Cracow, Poland" # Your header subtitle
+gravatar_email = "wanat@agh.edu.pl"          # Path to header image starting from the static directory
+recent_posts = 5                           # Max amount of recent posts to show
+mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  
+[style]                             # CSS style overrides
+  # backgroundColor = "#f8f9fa"
+  # fontColor = "#212529"
+  fontColor = "#283747"
+  backgroundColor = "#F3F3F3" 
+
+
+[[social]]
+  fa_icon = "fas fa-book-open fa-1x"
+  href = "https://orcid.org/0000-0002-8790-5114"
+[[social]]
+  fa_icon = "fas fa-university fa-1x"
+  href = "https://telekomunikacja.agh.edu.pl"
+[[social]]
+  fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+  href = "https://github.com/doma2203"      # Link to associate with icon (http://, https://, mailto:)
+[[social]]
+  fa_icon = "fab fa-linkedin-in fa-1x"
+  href = "https://www.linkedin.com/in/dkalafut/"
+[[social]]
+  fa_icon = "fas fa-key fa-1x"
+  href = "./wanat_agh_edu_pl.gpg"
