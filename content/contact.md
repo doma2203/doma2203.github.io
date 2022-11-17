@@ -3,6 +3,7 @@ title: Contact
 nocomments: true
 noDate: true
 draft: false
+disqus: false 
 ---
 **Dominika Wanat**\
 {{< cloakemail "wanat@agh.edu.pl" >}}\
