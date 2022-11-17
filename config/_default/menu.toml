@@ -17,15 +17,10 @@ weight = -110
   title = "Contact"
   url = "/contact"
   weight = -90
-# [[menu.main]]
-#   identifier = "Students"
-#   name = "Students"
-#   title = "Students"
-#   url = "/students/"
-#   weight = -90
-# [[menu.main]]
-#   identifier = "Categories"
-#   name = "Categories"
-#   title = "Categories"
-#   url = "/categories/"
-#   weight = -80
+[[main]]
+  identifier = "Resources"
+  name = "Resources"
+  title = "Resources"
+  url = "/resources/"
+  weight = -100
+
