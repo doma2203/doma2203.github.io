@@ -10,4 +10,4 @@ disqus: false
 Institute of Telecommunication\
 Faculty of Computer Science, Electronics and Telecommunications\
 AGH UST\
-B-9, room 218, [horizons.fuel.sunset](https://w3w.co/horizons.fuel.sunset)
+B-9, room 218, [expand.postcard.repeated](https://w3w.co/expand.postcard.repeated)

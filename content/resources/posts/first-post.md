@@ -6,10 +6,13 @@ name= "hello-world"
 type = "post"
 #description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 categories = ["blog"]
+#images = ["test.png"]
+#videos = ["https://youtu.be/qtIqKaDlqXo"]
+draft = true
 +++
 
-<!-- tags = [
-    "aa"
-t"
-]
-series = ["Aaaa"] -->
+
+```python
+def a():
+    pass
+```
