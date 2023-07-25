@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wanat;Dominika;;;
+FN:Dominika Wanat
+ORG:AGH UST;
+EMAIL;type=INTERNET:wanat@agh.edu.pl
+EMAIL;type=INTERNET:d.wanat@cyfronet.pl
+item1.URL;type=pref:https://dwanat.eu
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

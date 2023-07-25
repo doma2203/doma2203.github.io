@@ -27,5 +27,9 @@ mainSections = ["posts", "post", "blog","students"]   # Main sections to include
   fa_icon = "fab fa-linkedin-in fa-1x"
   href = "https://www.linkedin.com/in/dkalafut/"
 [[social]]
+  fa_icon = "fas fa-address-card fa-1x"
+  href = "./dwanat.vcf"
+[[social]]
   fa_icon = "fas fa-key fa-1x"
   href = "./wanat_agh_edu_pl.gpg"
+
