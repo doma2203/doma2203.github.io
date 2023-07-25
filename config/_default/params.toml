@@ -1,6 +1,6 @@
 description = "The website of Dominika Wanat, PhD student at AGH UST."      # Your meta description of the site
 header_title = "Dominika Wanat"                 # Your header title
-header_subtitle = "PhD student | Institute of Telecommunication | AGH UST | Cracow, Poland" # Your header subtitle
+header_subtitle = "PhD student | Institute of Telecommunications | AGH University of Krakow" # Your header subtitle
 gravatar_email = "wanat@agh.edu.pl"          # Path to header image starting from the static directory
 recent_posts = 0                           # Max amount of recent posts to show
 mainSections = ["posts", "post", "blog","students"]   # Main sections to include in recent posts
