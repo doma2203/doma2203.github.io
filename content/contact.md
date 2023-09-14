@@ -10,4 +10,4 @@ disqus: false
 Institute of Telecommunication\
 Faculty of Computer Science, Electronics and Telecommunications\
 AGH UST\
-B-9, room 218, [expand.postcard.repeated](https://w3w.co/expand.postcard.repeated)
+D-6, room 408, [attend.wink.roofed](https://w3w.co/attend.wink.roofed)
