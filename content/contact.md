@@ -6,7 +6,7 @@ draft: false
 disqus: false 
 ---
 **Dominika Wanat**\
-{{< cloakemail "wanat@agh.edu.pl" >}}\
+contact@dwanat.eu\
 Institute of Telecommunication\
 Faculty of Computer Science, Electronics and Telecommunications\
 AGH UST\
