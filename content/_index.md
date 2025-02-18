@@ -9,11 +9,11 @@ draft: false
 
 #### Introduction  
 
-I am a PhD student in the Institute of&nbspTelecommunication at&nbspthe Faculty of&nbspComputer Science, Electronics and Telecommunications at&nbspAGH University of&nbspScience and Technology, Cracow, Poland. 
+I am a PhD student in the Institute of Telecommunication at the Faculty of Computer Science, Electronics and Telecommunications at AGH University of Krakow, Poland. 
 
 
-I am involved in the research in the Quality of&nbspExperience (QoE) working group under the supervision of&nbspprof. Mikołaj Leszczuk and dr Dawid Juszka. 
-My research interest is&nbspecologically valid QoE and the impact of&nbspnetwork parameters on users' perceived quality.
+I am involved in the research in the Quality of Experience (QoE) working group under the supervision of Prof. Mikołaj Leszczuk and Dr. Dawid Juszka. 
+My research interest is ecologically valid QoE and the impact of network parameters on users' perceived quality.
 
 
 Besides my academic duties, I am professionally involved in the IT industry.
